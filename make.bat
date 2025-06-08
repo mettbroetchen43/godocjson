@@ -1,2 +1,2 @@
 @echo off
-go build -ldflags="-s -w" -trimpath gocsjson.go
+go build -ldflags="-s -w" -trimpath godocjson.go
